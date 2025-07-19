@@ -1,4 +1,4 @@
-MYDB.MYSCHEMAMYDB.INFORMATION_SCHEMAMYDB.INFORMATION_SCHEMA// Set the roles, warehouses and databases
+// Set the roles, warehouses and databases
 
 USE ROLE ACCOUNTADMIN;
 
